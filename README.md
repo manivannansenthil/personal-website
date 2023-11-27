@@ -1,3 +1,14 @@
+# To Run
+
+Run npm install -g http-server to INSTALL http-server using node globally
+
+To start server
+```bash 
+http-server
+```
+
+http://localhost:8080
+
 # vCard - Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
